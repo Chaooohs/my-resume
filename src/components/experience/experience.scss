@@ -1,0 +1,36 @@
+.experience {
+  order: 1;
+  width: 180px;
+
+  &__title {
+    margin-top: 0;
+  }
+
+  &__skill {
+    display: flex;
+    align-items: center;
+  }
+
+  &__item {
+    font-size: 36px;
+    line-height: 1;
+    margin-right: 5px;
+  }
+
+  &__text {
+    line-height: 0;
+    margin: 20px 14px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .experience {
+    order: 3;
+    margin-top: 80px;
+  }
+}
+@media (max-width: 640px) {
+  .experience {
+    margin-top: 40px;
+  }
+}

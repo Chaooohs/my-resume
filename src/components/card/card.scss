@@ -1,0 +1,23 @@
+$blue: #3E4E6A;
+$accent: #ff6b08;
+
+.card {
+  container-type: inline-size;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  border-bottom: 1px solid $blue;
+
+  &__img {
+    height: 199px;
+    object-fit: cover;
+    height: 56.1cqi;
+  }
+
+  &__link {
+    width: 210px;
+    height: 44px;
+    margin-bottom: 30px;
+    border: 1px solid $accent;
+    background-color: $accent;
+  }
+}

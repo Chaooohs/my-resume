@@ -1,0 +1,124 @@
+﻿[
+  {
+    "id": "001",
+    "main": "html",
+    "category": "html",
+    "workName": "Infinizai",
+    "workImage": "/img/infinizai.jpg",
+    "workLink": "https://khaooohs-infinizai.netlify.app/",
+    "workSkill": "html + css + js",
+    "note": "adaptive"
+  },
+  {
+    "id": "002",
+    "main": "html",
+    "category": "html",
+    "workName": "Sport-if",
+    "workImage": "/img/sport-if.jpg",
+    "workLink": "https://khaooohs-sport-if.netlify.app/",
+    "workSkill": "html + css + js",
+    "note": "adaptive"
+  },
+  {
+    "id": "003",
+    "category": "html",
+    "workName": "Pizza",
+    "workImage": "/img/pizza.jpg",
+    "workLink": "https://khaooohs-pizza.netlify.app/",
+    "workSkill": "html + css + js",
+    "note": "drag & drop"
+  },
+  {
+    "id": "004",
+    "main": "html",
+    "category": "html",
+    "workName": "Achille-ciio",
+    "workImage": "/img/achille-ciio.jpg",
+    "workLink": "https://khaooohs-achille-ciio.netlify.app/",
+    "workSkill": "html + css + bootstrap",
+    "note": "adaptive, nine page website"
+  },
+  {
+    "id": "005",
+    "category": "html",
+    "workName": "Dupper-bully",
+    "workImage": "/img/dupper-bully.jpg",
+    "workLink": "https://khaooohs-dupper-bully.netlify.app/",
+    "workSkill": "html + css +scss + js",
+    "note": "animation, adaptive"
+  },
+  {
+    "id": "006",
+    "category": "html",
+    "workName": "Bikcraft",
+    "workImage": "/img/bikcraft.jpg",
+    "workLink": "https://khaooohs-bikcraft.netlify.app/",
+    "workSkill": "html + css  + scss + js",
+    "note": "adaptive"
+  },
+  {
+    "id": "007",
+    "category": "html",
+    "workName": "Resume-one",
+    "workImage": "/img/resume-one.jpg",
+    "workLink": "https://khaooohs-homework-6.netlify.app/",
+    "workSkill": "html + css + scss",
+    "note": "adaptive, burger menu in CSS"
+  },
+  {
+    "id": "008",
+    "category": "html",
+    "workName": "Orno",
+    "workImage": "/img/orno.jpg",
+    "workLink": "https://khaooohs-orno.netlify.app/",
+    "workSkill": "html + css + jquery",
+    "note": "adaptive"
+  },
+  {
+    "id": "010",
+    "category": "react",
+    "workName": "Shopping list",
+    "workImage": "/img/shopping-list.jpg",
+    "workLink": "https://khaooohs-shopping-list.netlify.app/",
+    "workSkill": "react",
+    "note": "adaptive"
+  },
+  {
+    "id": "011",
+    "category": "html",
+    "workName": "MI-electro",
+    "workImage": "/img/mi-electro.jpg",
+    "workLink": "https://khaooohs-my-electro.netlify.app/",
+    "workSkill": "html + css + scss + js",
+    "note": "adaptive"
+  },
+  {
+    "id": "012",
+    "category": "html",
+    "workName": "Resume-two",
+    "workImage": "/img/resume-two.jpg",
+    "workLink": "https://khaooohs-resume.netlify.app/",
+    "workSkill": "html + css",
+    "note": "adaptive"
+  },
+  {
+    "id": "014",
+    "main": "react",
+    "category": "react",
+    "workName": "CRM",
+    "workImage": "/img/crm.jpg",
+    "workLink": "https://khaooohs-crm.netlify.app/",
+    "workSkill": "React.js",
+    "note": "adaptive"
+  },
+  {
+    "id": "015",
+    "main": "react",
+    "category": "react",
+    "workName": "Rick adn Morty",
+    "workImage": "/img/rick-and-morty.jpg",
+    "workLink": "https://khaooohs-rick-and-morty.netlify.app/",
+    "workSkill": "React.js",
+    "note": "adaptive"
+  }
+]

@@ -1,0 +1,18 @@
+.card {
+  container-type: inline-size;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  border-bottom: 1px solid #3E4E6A;
+}
+.card__img {
+  height: 199px;
+  object-fit: cover;
+  height: 56.1cqi;
+}
+.card__link {
+  width: 210px;
+  height: 44px;
+  margin-bottom: 30px;
+  border: 1px solid #ff6b08;
+  background-color: #ff6b08;
+}
