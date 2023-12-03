@@ -26,6 +26,6 @@ export const ReactPage = () => {
 }
 
 export const reactLoader = async () => {
-  const res = await fetch('data.json');
+  const res = await fetch('https://raw.githubusercontent.com/Chaooohs/JSON-resume/master/data.json');
   return res.json();
 }
