@@ -28,6 +28,7 @@ export const Caorusel = ({ main }) => {
                 <img
                   src={el.workImage}
                   alt="link"
+                  className='project__preview'
                   style={isFocus ?
                     { opacity: '0.2', transition: 'all .3s linear' }
                     : { opacity: '1', transition: 'all .3s linear' }}

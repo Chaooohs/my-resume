@@ -15,13 +15,13 @@ export const About = () => {
               <span className="about__descr-span bg_dark">{`APPS]`}</span>
             </p>
             <p className="about__text txt_dark txt_sm">
-              / In 2022-2023, he completed the 7education courses in the specialty Frontend developer. As part of the course, he performed works using&nbsp;
+              / In 2022-2023, I completed the 7education courses in the specialty Frontend developer. Have skills in working with&nbsp;
               <span className="txt_bold">
-                HTML CSS SCSS JavaScript React.js Bootstrap Git Figma JSON jQuery
+                HTML CSS SCSS JavaScript React.js Redux-Toolkit RTK-Query Tailwind Bootstrap MUI Git Figma JSON jQuery
               </span>
             </p>
             <p className="about__text txt_dark txt_sm">
-              / I have one freelance job
+              / I have two freelance job
             </p>
             <div className="about__img-container">
               <div className="about__img-text txt_lg txt_up">
