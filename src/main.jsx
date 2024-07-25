@@ -8,6 +8,7 @@ import { ErrorPage } from "./routes/error/error"
 import { MainPage } from './routes/page-main';
 import { HtmlPage, htmlLoader } from './routes/page-html';
 import { ReactPage, reactLoader } from './routes/page-react';
+import { WorkPage, workLoader } from './routes/page-work';
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -16,6 +17,7 @@ const router = createBrowserRouter(
         <Route index element={<MainPage />} loader={jsonLoader} />
         <Route path='html' element={<HtmlPage />} loader={htmlLoader} />
         <Route path='react' element={<ReactPage />} loader={reactLoader} />
+        <Route path='work' element={<WorkPage />} loader={workLoader} />
       </Route>
     </Route>
   )

@@ -17,7 +17,7 @@ export const About = () => {
             <p className="about__text txt_dark txt_sm">
               / In 2022-2023, I completed the 7education courses in the specialty Frontend developer. Have skills in working with&nbsp;
               <span className="txt_bold">
-                HTML CSS SCSS JavaScript React.js Redux-Toolkit RTK-Query Tailwind Bootstrap MUI Git Figma JSON jQuery
+                HTML | CSS | SCSS | JavaScript | React.js | Redux-Toolkit | createAsyncThunk | RTK-Query | Tailwind | Bootstrap | MUI | Git | Figma | JSON | jQuery
               </span>
             </p>
             <p className="about__text txt_dark txt_sm">

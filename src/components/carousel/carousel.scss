@@ -19,7 +19,7 @@ $blue: #3E4E6A;
   text-align: start;
   border-top-left-radius: 6px;
   border-top-right-radius: 6px;
-  background-color: rgb(37 48 69 / 22%);
+  background-color: rgb(37 48 69);
   box-sizing: border-box;
   padding: 12px 20px;
 }
@@ -30,6 +30,10 @@ $blue: #3E4E6A;
 
 .swiper-pagination-bullet-active {
   background-color: #ff6b08;
+}
+
+.swiper-slide {
+  cursor: grab
 }
 
 .link {

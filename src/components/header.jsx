@@ -42,6 +42,13 @@ export const Header = () => {
             >
               react
             </NavLink>
+            <NavLink
+              className="nav__link tr txt_sm txt_up"
+              to="work"
+              onClick={() => setOpen(!isOpen)}
+            >
+              work
+            </NavLink>
             {
               isTablet &&
               <a className="txt_dark txt_sm txt_bold" href="mailto:01nikka01@gmail.com">01nikka01@gmail.com</a>
