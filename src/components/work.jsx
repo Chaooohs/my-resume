@@ -12,7 +12,7 @@ export const Work = () => {
   })
 
   // const reactMain = json.filter((el) => {
-  //   if (el.main === 'react') {
+  //   if (el.main === 'work') {
   //     return el
   //   }
   // })
@@ -38,16 +38,16 @@ export const Work = () => {
               </Link>
             </div>
             {/* <div className="projects__items">
-        
-            <Caorusel main={reactMain} />
-            <p className="txt_sm txt_light">Technology: React.js</p>
-            <Link
+
+              <Caorusel main={reactMain} />
+              <p className="txt_sm txt_light">Technology: React.js</p>
+              <Link
                 to={'react'}
                 className="projects__btn btn txt_btn tr txt_light txt_up"
               >
                 more works&#65343;
               </Link>
-          </div> */}
+            </div> */}
           </div>
         </div>
       </div>
